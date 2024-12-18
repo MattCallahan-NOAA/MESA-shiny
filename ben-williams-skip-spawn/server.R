@@ -1,4 +1,4 @@
-source("/srv/shiny-server/ben-williams-skip-spawn/global.R")
+source("global.R")
 
 shinyServer(function(input, output, session) {
   # inputs ----
