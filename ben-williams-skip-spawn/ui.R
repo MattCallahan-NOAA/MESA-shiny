@@ -1,5 +1,6 @@
 library(shiny)
 library(shinycssloaders)
+library(magrittr)
 
 shinyUI(fluidPage(
  # tags$head(includeHTML("google-analytics.html")),
