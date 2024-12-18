@@ -1,3 +1,6 @@
+library(shiny)
+library(shinycssloaders)
+
 shinyUI(fluidPage(
  # tags$head(includeHTML("google-analytics.html")),
 
