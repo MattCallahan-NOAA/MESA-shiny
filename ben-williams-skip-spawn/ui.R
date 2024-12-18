@@ -1,5 +1,5 @@
 shinyUI(fluidPage(
-  tags$head(includeHTML("google-analytics.html")),
+ # tags$head(includeHTML("google-analytics.html")),
 
   navbarPage("Skip spawning simulator",
              navbarMenu("Instructions",
